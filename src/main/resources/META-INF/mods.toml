@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT"
+issueTrackerURL="https://github.com/Random832/advanced-tooltips-mod/issues"
+[[mods]]
+modId="random832tooltips"
+version="${file.jarVersion}"
+displayName="Random832's Advanced Tooltips"
+description='''
+Mod to show NBT and item tags in tooltips
+'''

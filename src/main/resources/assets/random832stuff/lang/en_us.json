@@ -1,0 +1,10 @@
+{
+  "info.random832tooltips.nbt": "NBT: %s",
+  "info.random832tooltips.tags": "Tags: %s",
+  "info.random832tooltips.fluid_info": "Fluid: %s %s",
+  "info.random832tooltips.fluid_with_id": "Fluid: %s %s (%s)",
+  "info.random832tooltips.fluid_nbt": "Fluid NBT: %s",
+  "info.random832tooltips.fluid_tags": "Fluid Tags: %s",
+  "info.random832tooltips.block_with_id": "Block: %s (%s)",
+  "info.random832tooltips.block_tags": "Block Tags: %s"
+}
